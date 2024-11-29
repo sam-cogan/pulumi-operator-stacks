@@ -1,0 +1,10 @@
+config:
+  azure-native:location: westeurope
+  pulumi-operator-stacks:azurePassword:
+    secure: AAABAD05KKjldE/t67MvKnSeWwYt0ubbSUL65idKG8vZgrmT2RbQd9lTjh/PtI/tRFNVBV2cPfuXvwcqFWfxlflby/a0EZEE
+  pulumi-operator-stacks:pulumiAccessToken:
+    secure: AAABADjz0KfiOYB+gk/GVoA+EH8iXnlX1b6/e13cQNnMUYakeDmrTIu3OqavoZdSpwZim4Vi2X2TxDC6UVsoQkAqMzpcFauToTVsgg==
+  pulumi-operator-stacks:azureAppId: d87afa37-f6bd-4301-9697-6ef962efdde9
+  pulumi-operator-stacks:azureTenant: 8f18eb27-4f87-4a88-b325-f8e6e7e43486
+  pulumi-operator-stacks:namespace: pulumi-operator
+  pulumi-operator-stacks:azureSubscription: 469048f1-92af-4c71-a63b-330ec31d2b82
